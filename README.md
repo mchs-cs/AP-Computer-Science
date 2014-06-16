@@ -1,4 +1,5 @@
-AP-Computer-Science
-===================
+# AP-Computer-Science
+## By Mr. Braskin  
+### A Mira Costa High School Computer Science resource
 
-This repository is for the use of student in the AP Computer Science A: JAVA Programming class at Mira Costa High School in Manhattan Beach, CA
+[Class Website](http://mchs-cs.com/apcsa/) You can find more class resources online here!

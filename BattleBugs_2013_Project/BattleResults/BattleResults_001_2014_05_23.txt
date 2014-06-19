@@ -1,0 +1,65 @@
+Creator(BattleBug)                 	GRD	Best	Worst	 Avg	Median	Score	Rnd#1
+Carson Boden(PonySlaystation)        	 A 	   1	    1	 1.00	    1	   64	    1
+Luqmaan Abdul-Cader(FiftyFifty)      	 A 	   2	    2	 2.00	    2	   63	    2
+Ryan Gulland(Asimov)                 	 A 	   3	    3	 3.00	    3	   62	    3
+Mr. Braskin(Aaronilator)             	 A 	   4	    4	 4.00	    4	   61	    4
+Will Kuhns(I am Still Alive)         	 A 	   5	    5	 5.00	    5	   60	    5
+Mr. Braskin(Apollo)                  	 A 	   6	    6	 6.00	    6	   59	    6
+Hunter Nowak(Gandalf the GAY)        	 A 	   7	    7	 7.00	    7	   58	    7
+Brian Anschel(Gandalf)               	 A 	   8	    8	 8.00	    8	   57	    8
+JC Ohmstede(BanjiOyewole)            	 A 	   9	    9	 9.00	    9	   56	    9
+Mr. Braskin(USS Leyte Gulf)          	 A 	  10	   10	10.00	   10	   55	   10
+Mishy(Michelle Tran)                 	 A 	  11	   11	11.00	   11	   54	   11
+Mr. Braskin(BraskinBug)              	 A 	  12	   12	12.00	   12	   53	   12
+Mr. Braskin(Hermes)                  	 A 	  13	   13	13.00	   13	   52	   13
+Stefan Palombo(Arani's other Love Chi)	 A 	  14	   14	14.00	   14	   51	   14
+Mr. Braskin(Bragi)                   	 A 	  15	   15	15.00	   15	   50	   15
+Mr. Braskin(USS Constitution)        	 A 	  16	   16	16.00	   16	   49	   16
+Mr. Braskin(StarterBug)              	 A 	  17	   17	17.00	   17	   48	   17
+Mr. Braskin(Artemis)                 	 A 	  18	   18	18.00	   18	   47	   18
+Niko Pappas(Josh Block: The Man wi)  	 A 	  19	   19	19.00	   19	   46	   19
+Minh Nguyen(Lil'Brother)             	 A 	  20	   20	20.00	   20	   45	   20
+PJ Onusconich(Bird Jesus!!!)         	 A 	  21	   21	21.00	   21	   44	   21
+Carlie Stewart(LadyBug)              	 B 	  22	   22	22.00	   22	   43	   22
+Mr. Braskin(Ares)                    	 B 	  23	   23	23.00	   23	   42	   23
+Mr. Braskin(Heimdall)                	 B 	  24	   24	24.00	   24	   41	   24
+Mr. Braskin(Athena)                  	 B 	  25	   25	25.00	   25	   40	   25
+Mills( )                             	 B 	  26	   26	26.00	   26	   39	   26
+Mr. Braskin(Hephaestus)              	 B 	  27	   27	27.00	   27	   38	   27
+Mr. Braskin(USS Farragut)            	 B 	  28	   28	28.00	   28	   37	   28
+Mr. Braskin(Thor)                    	 B 	  29	   29	29.00	   29	   36	   29
+Nate Schickler(SchicklerBug)         	 B 	  30	   30	30.00	   30	   35	   30
+Mr. Braskin(Hades)                   	 B 	  31	   31	31.00	   31	   34	   31
+Jeselle Clark(JezzyBuggy)            	 B 	  32	   32	32.00	   32	   33	   32
+Jackson Oconnell(TyrionDies)         	 B 	  33	   33	33.00	   33	   32	   33
+Mr. Braskin(USS Constellation)       	 B 	  34	   34	34.00	   34	   31	   34
+Mr. Braskin(Loki)                    	 B 	  35	   35	35.00	   35	   30	   35
+Mr. Braskin(USS Rabin)               	 B 	  36	   36	36.00	   36	   29	   36
+Sagisi(Slayer)                       	 B 	  37	   37	37.00	   37	   28	   37
+Tyler Heintz Ketchup(Gifalas Cage)   	 B 	  38	   38	38.00	   38	   27	   38
+Mr. Braskin(Tyr)                     	 B 	  39	   39	39.00	   39	   26	   39
+Mr. Braskin(Frigga)                  	 B 	  40	   40	40.00	   40	   25	   40
+Oyewole-BS(mbusa)                    	 B 	  41	   41	41.00	   41	   24	   41
+Christian Angeles(AngelesBug)        	 B 	  42	   42	42.00	   42	   23	   42
+Mr. Braskin(USS Cheyenne)            	 C 	  43	   43	43.00	   43	   22	   43
+Kojohnjaratkul(Blank)                	 C 	  44	   44	44.00	   44	   21	   44
+Mr. Braskin(Hera)                    	 C 	  45	   45	45.00	   45	   20	   45
+Brad Afzali(Arani's Love Child)      	 C 	  46	   46	46.00	   46	   19	   46
+Mr. Braskin(Odin)                    	 C 	  47	   47	47.00	   47	   18	   47
+Mr. Braskin(Aphrodite)               	 C 	  48	   48	48.00	   48	   17	   48
+Mr. Braskin(USS Dakota)              	 C 	  49	   49	49.00	   49	   16	   49
+Mr. Braskin(Hestia)                  	 C 	  50	   50	50.00	   50	   15	   50
+Mr. Braskin(USS Vengeance)           	 C 	  51	   51	51.00	   51	   14	   51
+Shea Summers(Coke Aine)              	 C 	  52	   52	52.00	   52	   13	   52
+Mr. Braskin(Balder)                  	 C 	  53	   53	53.00	   53	   12	   53
+Mr. Braskin(Freyja)                  	 C 	  54	   54	54.00	   54	   11	   54
+Mr. Braskin(USS Bradbury)            	 C 	  55	   55	55.00	   55	   10	   55
+Jackson Snyder(StarterBug)           	 C 	  56	   56	56.00	   56	    9	   56
+MTaylor(KickAssBuggy)                	 C 	  57	   57	57.00	   57	    8	   57
+Mr. Braskin(Demeter)                 	 C 	  58	   58	58.00	   58	    7	   58
+Andrew Burdiak(DoggyKillKill)        	 C 	  59	   59	59.00	   59	    6	   59
+Mr. Braskin(Dionysus)                	 C 	  60	   60	60.00	   60	    5	   60
+Gunner Robinson(K2)                  	 C 	  61	   61	61.00	   61	    4	   61
+Finn Pardon(TheBugThatIsStrongerTh)  	 C 	  62	   62	62.00	   62	    3	   62
+Joanne Q.(Edward Elric)              	 C 	  63	   63	63.00	   63	    2	   63
+Nick Sciacqua(BeatleBorgBug)         	 C 	  64	   64	64.00	   64	    1	   64

@@ -1,0 +1,65 @@
+Creator(BattleBug)                        	GRD	Best	Worst	  Avg	Median	Score	Rnd#1
+Abdul-Cader(FiftyFifty)                   	 B	  31	   31	31.00	   31	   34	   31
+Afzali Brad(Arani's Love Child)           	 A	  15	   15	15.00	   15	   50	   15
+Angeles(AngelesX21)                       	 A	  12	   12	12.00	   12	   53	   12
+Anschel(Gandalf)                          	 B	  35	   35	35.00	   35	   30	   35
+Burdiak(DoggyKillKill)                    	 C	  48	   48	48.00	   48	   17	   48
+Carson Boden(PonySlaystation)             	 A	   6	    6	 6.00	    6	   59	    6
+Clark_Jeselle(JezzyBuggy)                 	 A	  21	   21	21.00	   21	   44	   21
+Gulland(Byl)                              	 A	   7	    7	 7.00	    7	   58	    7
+Gunner Robinson(K2)                       	 B	  37	   37	37.00	   37	   28	   37
+Heintz Ketchup(Gifalas Cage)              	 A	   3	    3	 3.00	    3	   62	    3
+Kojohnjaratkul(Blank)                     	 C	  55	   55	55.00	   55	   10	   55
+Mills_Brandon(Kratos)                     	 B	  30	   30	30.00	   30	   35	   30
+Minh Nguyen(Lil'Brother)                  	 C	  52	   52	52.00	   52	   13	   52
+Mr. B.(Aaronnihilator)                    	 A	   1	    1	 1.00	    1	   64	    1
+Mr. Braskin(Hermes)                       	 A	   8	    8	 8.00	    8	   57	    8
+Mr. Braskin(Hades)                        	 A	   9	    9	 9.00	    9	   56	    9
+Mr. Braskin(Demeter)                      	 A	  10	   10	10.00	   10	   55	   10
+Mr. Braskin(Freyja)                       	 A	  11	   11	11.00	   11	   54	   11
+Mr. Braskin(Thor)                         	 A	  16	   16	16.00	   16	   49	   16
+Mr. Braskin(Artemis)                      	 A	  18	   18	18.00	   18	   47	   18
+Mr. Braskin(Zeus)                         	 B	  23	   23	23.00	   23	   42	   23
+Mr. Braskin(USS Cheyenne)                 	 B	  25	   25	25.00	   25	   40	   25
+Mr. Braskin(Aphrodite)                    	 B	  27	   27	27.00	   27	   38	   27
+Mr. Braskin(USS Leyte Gulf)               	 B	  28	   28	28.00	   28	   37	   28
+Mr. Braskin(Balder)                       	 B	  29	   29	29.00	   29	   36	   29
+Mr. Braskin(Tyr)                          	 B	  32	   32	32.00	   32	   33	   32
+Mr. Braskin(USS Enterprise)               	 B	  34	   34	34.00	   34	   31	   34
+Mr. Braskin(Hephaestus)                   	 B	  36	   36	36.00	   36	   29	   36
+Mr. Braskin(Bragi)                        	 B	  38	   38	38.00	   38	   27	   38
+Mr. Braskin(USS Vengeance)                	 B	  41	   41	41.00	   41	   24	   41
+Mr. Braskin(Loki)                         	 B	  42	   42	42.00	   42	   23	   42
+Mr. Braskin(USS Constitution)             	 C	  43	   43	43.00	   43	   22	   43
+Mr. Braskin(USS Bradbury)                 	 C	  45	   45	45.00	   45	   20	   45
+Mr. Braskin(USS Dakota)                   	 C	  46	   46	46.00	   46	   19	   46
+Mr. Braskin(Heimdall)                     	 C	  47	   47	47.00	   47	   18	   47
+Mr. Braskin(Apollo)                       	 C	  49	   49	49.00	   49	   16	   49
+Mr. Braskin(Frigga)                       	 C	  50	   50	50.00	   50	   15	   50
+Mr. Braskin(Athena)                       	 C	  53	   53	53.00	   53	   12	   53
+Mr. Braskin(Hestia)                       	 C	  54	   54	54.00	   54	   11	   54
+Mr. Braskin(Hera)                         	 C	  56	   56	56.00	   56	    9	   56
+Mr. Braskin(USS Rabin)                    	 C	  57	   57	57.00	   57	    8	   57
+Mr. Braskin(Dionysus)                     	 C	  58	   58	58.00	   58	    7	   58
+Mr. Braskin(Ares)                         	 C	  59	   59	59.00	   59	    6	   59
+Mr. Braskin(Poseidon)                     	 C	  60	   60	60.00	   60	    5	   60
+Mr. Braskin(BraskinBug)                   	 C	  64	   64	64.00	   64	    1	   64
+Nowak, Hunter(Gandalf the GAY)            	 B	  33	   33	33.00	   33	   32	   33
+OConnell(TyrionDies)                      	 A	   4	    4	 4.00	    4	   61	    4
+Ohmstede_JC(OGBanjiOyewole)               	 A	  17	   17	17.00	   17	   48	   17
+Onusconich_PJ(Bird Jesus!!!)              	 C	  44	   44	44.00	   44	   21	   44
+Oyewole(Bug –Supreme–)                    	 C	  61	   61	61.00	   61	    4	   61
+Palombo(Arani's other Love Chi)           	 A	   2	    2	 2.00	    2	   63	    2
+Pappas(Josh Block: The Man wi)            	 B	  39	   39	39.00	   39	   26	   39
+PardonFinn(TheBugThatIsStrongerTh)        	 C	  51	   51	51.00	   51	   14	   51
+Pouliopoulos_Peli(SkuuBuggy)              	 A	  20	   20	20.00	   20	   45	   20
+Qi(Derezzed)                              	 C	  62	   62	62.00	   62	    3	   62
+Sagisi(Slayer)                            	 C	  63	   63	63.00	   63	    2	   63
+Schickler(Starbug)                        	 B	  22	   22	22.00	   22	   43	   22
+Sciacqua_Nick(BeatleBorgBug)              	 A	  14	   14	14.00	   14	   51	   14
+Snyder Jackson(StarterBug)                	 B	  24	   24	24.00	   24	   41	   24
+Stewart(LadyBug)                          	 B	  40	   40	40.00	   40	   25	   40
+Summers(Coke Aine)                        	 A	  13	   13	13.00	   13	   52	   13
+Taylor_SlothMaster(Lazy-Ass Buggy-- lol s)	 B	  26	   26	26.00	   26	   39	   26
+Tran, Michelle( Mishy )                   	 A	   5	    5	 5.00	    5	   60	    5
+Will Kuhns(DongMaster420)                 	 A	  19	   19	19.00	   19	   46	   19

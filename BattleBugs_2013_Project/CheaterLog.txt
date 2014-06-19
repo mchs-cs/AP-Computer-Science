@@ -1,0 +1,123 @@
+Cheater Log Created: Fri Jun 13 13:36:47 PDT 2014
+Checking: Mr. B. written by Aaronnihilator is unique.
+Checking: Afzali Brad written by #RonBhatta is unique.
+Checking: Angeles written by AngelesX21 is unique.
+Checking: Anschel written by Gandalf is unique.
+Checking: Boden written by PonySlaystation is unique.
+Checking: Mr. Braskin written by BraskinBug is unique.
+Checking: Winner written by Burdiak
+Method Names:
+Field Names:
+myTarget
+steps
+	is identical to Mills written by Kratos
+	is identical to OConnell written by TyrionDies
+	is identical to Ohmstede_JC written by OGBanjiOyewole
+	is identical to PardonFinn written by TheBug
+	is identical to Robinson written by K2
+	is identical to Snyder Jackson written by A Rock
+	is identical to Taylor_SlothMaster written by Lazy-Ass Buggy-- lol sloth
+Checking: Abdul-Cader written by FiftyFifty is unique.
+Checking: Clark_Jeselle written by JezzyBuggy is unique.
+Checking: Gulland written by Mr.^2 is unique.
+Checking: Heintz Ketchup written by Gifalas Cage is unique.
+Checking: Kojohnjaratkul written by Osu! is unique.
+Checking: Kuhns, Will written by DongMaster420 is unique.
+Checking: Kratos written by Mills
+Method Names:
+Field Names:
+myTarget
+steps
+	is identical to Burdiak written by Winner
+	is identical to OConnell written by TyrionDies
+	is identical to Ohmstede_JC written by OGBanjiOyewole
+	is identical to PardonFinn written by TheBug
+	is identical to Robinson written by K2
+	is identical to Snyder Jackson written by A Rock
+	is identical to Taylor_SlothMaster written by Lazy-Ass Buggy-- lol sloth
+Checking: Nguyen written by Lil'Brother is unique.
+Checking: Nowak, Hunter written by Gandalf the Gay is unique.
+Checking: TyrionDies written by OConnell
+Method Names:
+Field Names:
+myTarget
+steps
+	is identical to Burdiak written by Winner
+	is identical to Mills written by Kratos
+	is identical to Ohmstede_JC written by OGBanjiOyewole
+	is identical to PardonFinn written by TheBug
+	is identical to Robinson written by K2
+	is identical to Snyder Jackson written by A Rock
+	is identical to Taylor_SlothMaster written by Lazy-Ass Buggy-- lol sloth
+Checking: OGBanjiOyewole written by Ohmstede_JC
+Method Names:
+Field Names:
+myTarget
+steps
+	is identical to Burdiak written by Winner
+	is identical to Mills written by Kratos
+	is identical to OConnell written by TyrionDies
+	is identical to PardonFinn written by TheBug
+	is identical to Robinson written by K2
+	is identical to Snyder Jackson written by A Rock
+	is identical to Taylor_SlothMaster written by Lazy-Ass Buggy-- lol sloth
+Checking: Onusconich_PJ written by Plz No Trollerino is unique.
+Checking: Oyewole written by –Supreme– is unique.
+Checking: Palombo written by Omnomivore is unique.
+Checking: Pappas written by Josh Block is unique.
+Checking: TheBug written by PardonFinn
+Method Names:
+Field Names:
+myTarget
+steps
+	is identical to Burdiak written by Winner
+	is identical to Mills written by Kratos
+	is identical to OConnell written by TyrionDies
+	is identical to Ohmstede_JC written by OGBanjiOyewole
+	is identical to Robinson written by K2
+	is identical to Snyder Jackson written by A Rock
+	is identical to Taylor_SlothMaster written by Lazy-Ass Buggy-- lol sloth
+Checking: Pouliopoulos_Peli written by SkuuBuggy is unique.
+Checking: Qi written by MUUUUUuuuu is unique.
+Checking: K2 written by Robinson
+Method Names:
+Field Names:
+myTarget
+steps
+	is identical to Burdiak written by Winner
+	is identical to Mills written by Kratos
+	is identical to OConnell written by TyrionDies
+	is identical to Ohmstede_JC written by OGBanjiOyewole
+	is identical to PardonFinn written by TheBug
+	is identical to Snyder Jackson written by A Rock
+	is identical to Taylor_SlothMaster written by Lazy-Ass Buggy-- lol sloth
+Checking: Sagisi written by Slayer is unique.
+Checking: Schickler written by Battle Thug is unique.
+Checking: Sciacqua_Nick written by BeatleBorgBug is unique.
+Checking: A Rock written by Snyder Jackson
+Method Names:
+Field Names:
+myTarget
+steps
+	is identical to Burdiak written by Winner
+	is identical to Mills written by Kratos
+	is identical to OConnell written by TyrionDies
+	is identical to Ohmstede_JC written by OGBanjiOyewole
+	is identical to PardonFinn written by TheBug
+	is identical to Robinson written by K2
+	is identical to Taylor_SlothMaster written by Lazy-Ass Buggy-- lol sloth
+Checking: Stewart written by LadyBug is unique.
+Checking: Summers written by Coke Amne is unique.
+Checking: Lazy-Ass Buggy-- lol sloth written by Taylor_SlothMaster
+Method Names:
+Field Names:
+myTarget
+steps
+	is identical to Burdiak written by Winner
+	is identical to Mills written by Kratos
+	is identical to OConnell written by TyrionDies
+	is identical to Ohmstede_JC written by OGBanjiOyewole
+	is identical to PardonFinn written by TheBug
+	is identical to Robinson written by K2
+	is identical to Snyder Jackson written by A Rock
+Checking: Tran, Michelle written by Mishymisher is unique.

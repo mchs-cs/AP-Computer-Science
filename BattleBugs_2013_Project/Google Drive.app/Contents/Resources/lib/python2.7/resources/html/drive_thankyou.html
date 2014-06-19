@@ -1,0 +1,65 @@
+<!doctype html>
+<html dir="%(dir)s">
+<head>
+  <meta charset="utf-8">
+  <title>%(header)s</title>
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;lang=en" rel="stylesheet">
+  <link href="http://www.google.com/css/maia.css" rel="stylesheet">
+  <style>
+    body {
+      font-family: "Open Sans", arial, sans-serif;
+      direction: %(dir)s;
+    }
+
+    .thankyou-cta,
+    .thankyou-msg {
+      margin: 0 auto;
+      text-align: center;
+      width: 740px;
+    }
+
+    .thankyou-msg {
+      background: transparent url(http://www.google.com/drive/start/images/ty-dl-devices.png) no-repeat scroll center bottom;
+    }
+
+    .thankyou-cta {
+      padding-top: 20px;
+    }
+
+    .thankyou-msg h2 {
+      font-size: 25px;
+      font-weight: normal;
+      margin-bottom: 20px;
+    }
+
+    .thankyou-msg ul {
+      margin: 0 175px;
+      padding-bottom: 180px;
+    }
+
+    .thankyou-msg li {
+        text-align: %(textalign)s;
+    }
+  </style>
+</head>
+<body>
+  <div class="maia-header" id="maia-header">
+    <div class="maia-aux">
+      <h1>
+        <img alt="Google" width="64" height="64" src="http://www.google.com/images/icons/product/drive-128.png"> %(googledriveproductname)s
+      </h1>
+    </div>
+  </div>
+  <div class="thankyou-msg">
+    <h2>%(header)s</h2>
+    <ul>
+      <li>%(item1)s</li>
+      <li>%(item2)s</li>
+    </ul>
+  </div>
+  <div class="thankyou-cta">
+    <p>%(description)s</p>
+    <a href="%(signinurl)s" class="maia-button">%(signintext)s</a>
+  </div>
+</body>
+</html>
